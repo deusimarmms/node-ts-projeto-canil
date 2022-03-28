@@ -16,3 +16,5 @@ caso o projeto seja clonado no github usar o comando npm install
   dotenv: "^16.0.0",
   express: "^4.17.3",
   mustache-express: "^1.3.2"
+
+  ###Deploy do projeto no Heroku
