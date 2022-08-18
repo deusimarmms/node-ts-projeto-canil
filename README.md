@@ -1,5 +1,5 @@
 # node-ts-projeto-canil
-Projeto feito para estudos com node e typescript
+Projeto feito para estudos com node e typescript Interação front end com back end
 
 ### Pré-requisitos globais 
 `npm i -g nodemon typescript ts-node`
